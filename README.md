@@ -1,2 +1,1 @@
-# hello-world
-Hello world new project template.
+# Cocos Creator V2.1.2版本

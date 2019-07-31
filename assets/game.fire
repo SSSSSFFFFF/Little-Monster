@@ -501,8 +501,10 @@
       "__id__": 9
     },
     "_enabled": true,
-    "label": null,
-    "text": "hello",
+    "jumpHeight": 150,
+    "jumpDuration": 0.3,
+    "maxMoveSpeed": 400,
+    "accel": 1000,
     "_id": "91Qkd7rzlGVbzstrLjHqiK"
   },
   {
